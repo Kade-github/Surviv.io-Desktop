@@ -10,7 +10,7 @@ This is with most desktop ports.
 
 # Setup (Developers)
 ## Part 1: Building
-Open the project in vs 2017 and then build it.
+Open the project in vs 2017 and then either build CefSharp or get it off nugget. Then build it in VS or MSBuild or Mono. What ever you like :)
 ## Part 2: Running
 You can run the Surviv.exe file normaly but it would be best to use the launcher aswell, make sure to have the Suviv files in the files dir and the launcher outside of it.
 ## Part 3: Sumbiting code
