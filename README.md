@@ -1,5 +1,12 @@
-# Surviv.io-Desktop
-The desktop app version of the 2d battle royal game http://surviv.io/
+# Surviv.io-Desktop, what is it?
+its the desktop version of Surviv.io, which is a 2d battle royal game. In the simplest terms, It's a c# program with a browser in it and connects to the website. Thats it really.
+
+## Features
+- Copying team codes
+- You will get better performance
+- Better input times
+
+This is with most desktop ports.
 
 # Setup (Developers)
 ## Part 1: Building
