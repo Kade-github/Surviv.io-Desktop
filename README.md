@@ -16,4 +16,4 @@ Download it from the releases page.
 Download it, and extract it. Run the Launcher and have fun!
 
 # Libarys
-CEFSharp for the browser OwO: [https://github.com/cefsharp/CefSharp/](CEFSharp)
+CEFSharp for the browser OwO: https://github.com/cefsharp/CefSharp/
