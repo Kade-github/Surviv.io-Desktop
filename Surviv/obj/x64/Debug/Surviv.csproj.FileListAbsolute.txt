@@ -1,0 +1,2 @@
+C:\Users\kadep\Documents\source\Surviv.io-Desktop-master\Surviv.IO Desktop Repo\Surviv\obj\x64\Debug\Surviv.csprojAssemblyReference.cache
+C:\Users\kadep\Documents\source\Surviv.io-Desktop-master\Surviv.IO Desktop Repo\Surviv\obj\x64\Debug\Surviv.csproj.GenerateResource.cache
