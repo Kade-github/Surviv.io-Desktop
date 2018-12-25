@@ -2,7 +2,7 @@
 its the desktop version of Surviv.io, which is a 2d battle royal game. In the simplest terms, It's a c# program with a browser in it and connects to the website. Thats it really.
 
 ## Features
-- Copying team codes
+- ~~Copying team codes~~ Soon to come!
 - You will get better performance
 - Better input times
 
